@@ -1,0 +1,33 @@
+version: '3.1'
+services:
+  app:
+    container_name: node-demo-api
+    build: .
+    image: node-demo-api
+    command: bash -c "npm run 'start:dev'"
+    #command: tail -f /dev/null
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - ~/.ssh/:/root/.ssh
+    ports:
+      - "3000:3000"
+    environment:
+      - RAILS_ENV=development
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/node_api
+    depends_on:
+      - db
+  db:
+    image: postgres:10
+    container_name: node-db
+    restart: always
+    volumes:
+      -  node_db:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=node_api
+      - POSTGRES_PASSWORD=postgres
+
+volumes:
+  node_db:

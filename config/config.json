@@ -1,32 +1,7 @@
 {
   "development": {
-    "username": "postgres",
-    "password": null,
-    "database": "dakara_dev",
-    "host": "127.0.0.1",
     "dialect": "postgres",
-    "define": {
-      "underscored": true,
-      "version": true
-    }
-  },
-  "test": {
-    "username": "postgres",
-    "password": null,
-    "database": "dakara_test",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "define": {
-      "underscored": true,
-      "version": true
-    }
-  },
-  "production": {
-    "username": "postgres",
-    "password": null,
-    "database": "dakara_production",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
+    "use_env_variable": "DATABASE_URL",
     "define": {
       "underscored": true,
       "version": true
