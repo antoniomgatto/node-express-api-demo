@@ -1,0 +1,662 @@
+  [
+    {
+        "id": 1,
+        "cfe": "2667",
+        "clientDocument": "06607273076",
+        "purchaseDate": "2018-08-25T02:57:36.290Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.307Z",
+        "updatedAt": "2019-02-04T23:32:20.307Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 1,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 2,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 3,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "cfe": "91180",
+        "clientDocument": "56368525258",
+        "purchaseDate": "2018-02-06T16:13:32.745Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 4,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 5,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 6,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "cfe": "61993",
+        "clientDocument": "50687344468",
+        "purchaseDate": "2018-10-28T07:45:23.804Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 7,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 8,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 9,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "cfe": "67576",
+        "clientDocument": "26441366797",
+        "purchaseDate": "2018-12-19T22:54:09.226Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 10,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 11,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 12,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "cfe": "53584",
+        "clientDocument": "86221346797",
+        "purchaseDate": "2018-05-01T18:09:52.152Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 13,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 14,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 15,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "cfe": "59567",
+        "clientDocument": "53008225233",
+        "purchaseDate": "2018-07-20T05:49:03.134Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 16,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 17,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 18,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "cfe": "13205",
+        "clientDocument": "73033525202",
+        "purchaseDate": "2018-11-02T00:25:38.799Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 19,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 20,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 21,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "cfe": "41977",
+        "clientDocument": "35575822214",
+        "purchaseDate": "2018-05-04T13:15:02.251Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 22,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 23,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 24,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "cfe": "7904",
+        "clientDocument": "76506362243",
+        "purchaseDate": "2018-05-13T08:09:55.956Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 25,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 26,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 27,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "cfe": "57540",
+        "clientDocument": "11717508626",
+        "purchaseDate": "2018-06-18T21:03:10.014Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 28,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 29,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 30,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "cfe": "70886",
+        "clientDocument": "33578834653",
+        "purchaseDate": "2018-12-16T11:21:25.595Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 31,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 32,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 33,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "cfe": "253",
+        "clientDocument": "81372646477",
+        "purchaseDate": "2018-12-21T13:39:22.376Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 34,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 35,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 36,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "cfe": "77762",
+        "clientDocument": "27014748092",
+        "purchaseDate": "2018-04-30T06:59:55.232Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 37,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 38,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 39,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "cfe": "73599",
+        "clientDocument": "85783231061",
+        "purchaseDate": "2018-09-09T20:57:15.728Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 40,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 41,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 42,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "cfe": "93770",
+        "clientDocument": "37641866239",
+        "purchaseDate": "2019-01-12T14:41:10.844Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 43,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 44,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 45,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "cfe": "76617",
+        "clientDocument": "26857480834",
+        "purchaseDate": "2018-11-03T12:50:25.833Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 46,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 47,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 48,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "cfe": "88092",
+        "clientDocument": "86352520715",
+        "purchaseDate": "2019-02-01T22:49:51.600Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 49,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 50,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 51,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "cfe": "4616",
+        "clientDocument": "04415368590",
+        "purchaseDate": "2018-06-09T06:06:01.887Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 52,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 53,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 54,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "cfe": "10733",
+        "clientDocument": "21724266527",
+        "purchaseDate": "2018-05-15T22:08:07.497Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 55,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 56,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 57,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "cfe": "11986",
+        "clientDocument": "30532057503",
+        "purchaseDate": "2018-12-17T03:24:38.965Z",
+        "total": null,
+        "createdAt": "2019-02-04T23:32:20.308Z",
+        "updatedAt": "2019-02-04T23:32:20.308Z",
+        "version": 0,
+        "items": [
+            {
+                "id": 58,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 59,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            },
+            {
+                "id": 60,
+                "code": "001",
+                "description": "Item 1",
+                "quantity": 1,
+                "price": null
+            }
+        ]
+    }
+]
